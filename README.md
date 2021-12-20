@@ -2,7 +2,7 @@
 Analysis of Shipping costs data
 
 mac instructions:
-
+```
 git clone git@github.com:sb-olr/C2C-Shipping-ETL-Analysis.git
 cd C2C-Shipping-ETL-Analysis/
 python3 -m venv venv
@@ -12,7 +12,7 @@ python3 -m pip install -r requirements.txt
 unzip data.zip data
 
 jupyter notebook
-
+```
 
 # Further details and instructions in ShippingETL.ipynb
 
