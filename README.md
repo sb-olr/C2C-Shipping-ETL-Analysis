@@ -12,3 +12,8 @@ python3 -m pip install -r requirements.txt
 unzip data.zip data
 
 jupyter notebook
+
+
+# Further details and instructions in ShippingETL.ipynb
+
+Thanks!
