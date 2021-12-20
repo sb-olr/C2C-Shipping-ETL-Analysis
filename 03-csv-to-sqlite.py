@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#Usage: ./csv-to-sqlite.py
+#Usage: ./03-csv-to-sqlite.py
 from icecream import ic
 import my_db_utils
 from config import CONFIG
